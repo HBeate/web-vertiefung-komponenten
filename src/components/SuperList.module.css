@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+/*     background-color: darkkhaki; 
+ */
+
+    justify-content: center;
+}
+
+.content ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+.content li {
+    background-color: cadetblue;
+    padding: 20px 120px 20px 20px;
+    Margin: 2px;
+
+}
+.content li:hover{
+    background-color: rgb(72, 137, 139);
+    cursor:pointer;
+}

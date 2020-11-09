@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+/*     margin: 40px; */
+/*     background-color: red; */
+    justify-content: center;
+}
+
+.button {
+    background-color: darkolivegreen;
+    border: none;
+    color: white;
+    margin-top: 20px;
+    padding: 15px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+/*     border-radius: 8px; */
+}
+.button:hover{
+    background-color: seagreen;
+    cursor:pointer;
+}

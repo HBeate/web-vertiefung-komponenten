@@ -1,0 +1,10 @@
+.container {
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 10px;
+    display: inline-block; /* makes grid jsut as big as its content */
+    align-items: center;
+    justify-content: center;
+
+}
