@@ -1,7 +1,5 @@
 import React from 'react';
 import './App.css';
-import SuperCard from './components/SuperCard';
-import ListButtonContainer from './components/ListButtonContainer';
 import ListButtonAvatarContainer from './components/ListButtonAvatarContainer';
 
 function App() {
